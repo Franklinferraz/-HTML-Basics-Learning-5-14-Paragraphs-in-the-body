@@ -1,0 +1,42 @@
+Paragraphs in the body
+
+Great job! To review, an HTML file has both a head and a body. 
+The head is where you put information about your HTML file, like its title.
+
+The body is where you put your content, such as text, images, and links.
+The content in the body is what will be visible on the actual page.
+
+The body goes inside the <html> tags, right after the <head> tags, like this:
+
+<html>
+  <head>
+    <title>My Webpage</title>
+  </head>
+
+  <body>
+  </body>
+</html>
+
+Instructions
+Underneath the closing </head> tag, put an opening <body> tag and a closing </body> tag, like in the example above.
+Inside the body, create two paragraphs. Each paragraph starts with an opening <p> tag and ends with a closing <p> tag. 
+We can write content in between the tags, like this:
+<body>
+    <p>Hello world!</p>
+</body>
+?
+Stuck? Get a hint!
+
+Hint
+Your code should loook something like this:
+
+<html>
+  <head>
+    <title>My Webpage</title>
+  </head>
+
+  <body>
+    <p>This is my first paragraph</p>
+    <p>This is my second paragraph</p>
+  </body>
+</html>
